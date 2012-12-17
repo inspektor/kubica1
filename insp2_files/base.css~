@@ -2398,8 +2398,8 @@ body.jquery-learning { background: #000 url(http://api.jqueryui.com/web-base-tem
 
 #sidebar aside > ul li a {
 	font-weight: bold;
-	color: #F1F1F1;
-	text-shadow: 0 1px 5px rgba(255, 143, 0, 1);
+	color: #3f3f3f;
+	text-shadow: 0 1px 0 rgba(255,255,255,1);
 	font-size: 13px;
 	text-decoration: none;
 	width: 100%;
