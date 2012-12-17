@@ -134,6 +134,7 @@ body {
 	font-size: 15px;
 	line-height: 1.6em; /*1.6 * 15px = 24px*/
 	-webkit-font-smoothing: antialiased;
+	background: url('bg.jpg');
 }
 
 h1 {
