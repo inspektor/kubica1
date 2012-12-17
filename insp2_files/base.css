@@ -813,10 +813,10 @@ a.button:hover {
 /*******************************************************************************/
 /* Default */
 /*******************************************************************************/
-a { color: #0d619c; }
+a { color: #BB6F04; }
 
 a:hover {
-	color: #333;
+	 color : #FFA300;
 }
 
 #site-footer a {
@@ -1931,12 +1931,15 @@ header nav.top li.toggle-projects.active a {
 #container header {	}
 
 #container header nav {
+	box-shadow: 0px 7px 15px rgba(0, 0, 0, 0.7);
+	background: -webkit-gradient(linear, 0% 43%, 0% 66%, from(#FF9712), to(#BB6F04));
 	clear: both;
 	margin-top: -1px;
 	width: auto;
-	background: transparent none;
 	border: solid 1px rgba(0,0,0,0.2);
 	border-radius: 10px 10px 0 0;
+	z-index: 55;
+	position: relative;
 }
 
 #container header nav ul {
@@ -2123,6 +2126,7 @@ nav .searchform .icon-search {
 #container #body.sidebar-left .inner {
 	width: 59.65%;
 	float: right;
+	background: white;
 }
 
 #container #body.sidebar-left #sidebar {
