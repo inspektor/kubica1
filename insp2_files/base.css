@@ -2072,13 +2072,13 @@ nav .searchform .icon-search {
 }
 
 #container #body {
+	border-bottom: solid 3px black;
+	box-shadow: 0px 10px 20px rgb(0, 0, 0);
 	margin-bottom: -50px;
 	min-height: 400px;
 	border-radius: 0 0 8px 8px;
 	background: #fff;
 	display: block;
-	-webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.5);
-	box-shadow: 0 2px 5px rgba(0,0,0,0.5);
 	position: relative;
 	z-index: 20;
 	overflow: hidden;
@@ -2142,6 +2142,7 @@ nav .searchform .icon-search {
 #container #body.sidebar-left #sidebar {
 	border-radius: 0 0 0 8px;
 	background-image: url('carbon2.jpg');
+	height: 500px;
 }
 
 /*******************************************************************************/
