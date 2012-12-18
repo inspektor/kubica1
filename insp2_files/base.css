@@ -1964,6 +1964,8 @@ header nav.top li.toggle-projects.active a {
 	border: none;
 	-webkit-box-shadow: none;
 	box-shadow: none;
+	font-size: 17px;
+	font-weight: bold;
 }
 
 #container header nav ul li a {
