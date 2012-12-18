@@ -1932,11 +1932,13 @@ header nav.top li.toggle-projects.active a {
 
 #container header nav {
 	box-shadow: 0px 7px 15px rgba(0, 0, 0, 0.7);
-	background: gradient(linear, 0% 43%, 0% 66%, from(rgb(235, 153, 107)), to(rgb(201, 115, 47)));
-	background: -o-gradient(linear, 0% 43%, 0% 66%, from(rgb(235, 153, 107)), to(rgb(201, 115, 47)));
-	background: -moz-gradient(linear, 0% 43%, 0% 66%, from(rgb(235, 153, 107)), to(rgb(201, 115, 47)));
 	background: -webkit-gradient(linear, 0% 43%, 0% 66%, from(rgb(235, 153, 107)), to(rgb(201, 115, 47)));
-	background: -ms-gradient(linear, 0% 43%, 0% 66%, from(rgb(235, 153, 107)), to(rgb(201, 115, 47)));
+	
+	background-image: linear-gradient(bottom, rgb(235, 153, 107) 43%, rgb(201, 115, 47) 68%);
+	background-image: -o-linear-gradient(bottom, rgb(235, 153, 107) 43%, rgb(201, 115, 47) 68%);
+	background-image: -moz-linear-gradient(bottom, rgb(235, 153, 107) 43%, rgb(201, 115, 47) 68%);
+	background-image: -ms-linear-gradient(bottom, rgb(235, 153, 107) 43%, rgb(201, 115, 47) 68%);
+	
 	background-color: #C9732F;
 	clear: both;
 	margin-top: -1px;
