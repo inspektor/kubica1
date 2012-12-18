@@ -1,0 +1,55 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   insp2.html
+#	new file:   insp2_files/6.png
+#	new file:   insp2_files/8.png
+#	new file:   insp2_files/Bezecke-lyze-bezky-118.jpg
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    images/basket.png
+#	deleted:    images/grid.jpg
+#	deleted:    images/images - Shortcut.lnk
+#	deleted:    images/logo_web.png
+#	deleted:    insp2_files/basket1.png
+#	deleted:    insp2_files/carbon.jpg
+#	deleted:    insp2_files/carbon1.jpg
+#	deleted:    insp2_files/logo-top-qunitjs.png
+#	deleted:    iri053fl.5fv.txt
+#	deleted:    jqapi2.html
+#	deleted:    jqapi2_files/comment-reply.js
+#	deleted:    jqapi2_files/ga(1).js
+#	deleted:    jqapi2_files/ga.js
+#	deleted:    jqapi2_files/jquery.min.js
+#	deleted:    jqapi2_files/logo-top-qunitjs.png
+#	deleted:    jqapi2_files/modernizr.custom.2.0.6.min.js
+#	deleted:    jqapi2_files/plugins.js
+#	deleted:    jqapi2_files/scripts.js
+#	deleted:    jqapi2_files/wde1aof.js
+#	deleted:    sk13xrhx.2v0.txt
+#	deleted:    ssss/copying.txt
+#	deleted:    ssss/css/slide.css
+#	deleted:    ssss/css/style.css
+#	deleted:    ssss/images/bg.jpg
+#	deleted:    ssss/images/bt_close.png
+#	deleted:    ssss/images/bt_login.png
+#	deleted:    ssss/images/bt_open.png
+#	deleted:    ssss/images/bt_register.png
+#	deleted:    ssss/images/tab_b.png
+#	deleted:    ssss/images/tab_l.png
+#	deleted:    ssss/images/tab_m.png
+#	deleted:    ssss/images/tab_r.png
+#	deleted:    ssss/index.html
+#	deleted:    ssss/js/jquery-1.3.2.min.js
+#	deleted:    ssss/js/pngfix/supersleight-min.js
+#	deleted:    ssss/js/pngfix/x.gif
+#	deleted:    ssss/js/slide.js
+#
+
